@@ -1,39 +1,74 @@
-<h1 align="center">Hi 👋, I'm Jim Stefanakis</h1>
-<h3 align="center">Founder of Senec, Startup Development Studio</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimstefanakis&label=Profile%20views&color=0e75b6&style=flat" alt="dimstefanakis" /> </p>
-
-- 🔭 I’m currently building [Shrine](https://www.shrine.gr/) and [Senec Studio](https://www.senec.ai/)
-
-- 👨‍💻 (Outdated personal website) [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
-
-- 📝 I have wrote some articles on [https://dimitrisstefanakis.medium.com/](https://dimitrisstefanakis.medium.com/)
-
-- 💬 Ask me about **startups**
-
-- 📫 How to reach me **jim@senec.ai**
-
-- ⚡ Fun fact **I built over 10 startups since 2017**
-
-# Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [React project structure](https://dimitrisstefanakis.medium.com/react-project-structure-3a7a95f557b8?source=rss-9dbcc2bed197------2)
-- [The 80 / 20 rule for software developers](https://dimitrisstefanakis.medium.com/the-80-20-rule-for-software-developers-c28200651872?source=rss-9dbcc2bed197------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jim_stef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jim_stef" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dimitris-stefanakis-476539187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitris-stefanakis-476539187" height="30" width="40" /></a>
-<a href="https://instagram.com/dimitrisstef_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimitrisstef_" height="30" width="40" /></a>
-<a href="https://medium.com/@dimitrisstefanakis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dimitrisstefanakis" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Jim (Dimitris) 👋</h1>
+<p align="center">
+  Product-driven mobile engineer building consumer apps with React Native + Expo.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.senec.ai">senec.ai</a> •
+  <a href="https://github.com/dimstefanakis">github</a> •
+  <a href="https://twitter.com/jim_stef">x</a> •
+  <a href="https://linkedin.com/in/dimitris-stefanakis-476539187">linkedin</a> •
+  <a href="https://dimitrisstefanakis.medium.com/">writing</a> •
+  <a href="mailto:jim@senec.ai">jim@senec.ai</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimstefanakis&show_icons=true&locale=en&layout=compact" alt="dimstefanakis" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dimstefanakis&label=profile%20views&color=0e75b6&style=flat" alt="dimstefanakis" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimstefanakis&show_icons=true&locale=en" alt="dimstefanakis" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimstefanakis&" alt="dimstefanakis" /></p>
+## What I do
+
+- 📱 **Mobile**: React Native + Expo (product polish, performance, shipping fast)
+- 🧠 **Product engineering**: build → launch → iterate (real users, real constraints)
+- 🧩 **Full-stack when needed**: Django + Postgres, APIs, production debugging
+- 🚀 **High agency**: I like owning problems end-to-end and making the product better every week
+
+---
+
+## Highlight
+
+### 🗺️ Leaks — location-based anonymous social app
+Built and scaled **Leaks** solo while working full-time — hit **#2 in Greece** on the App Store.
+
+👉 https://apps.apple.com/us/app/leaks-local-secrets/id6737156608
+
+---
+
+## Current focus
+
+- Building **fast, polished consumer mobile apps**
+- Performance work (maps, rendering, data fetching, smooth UX)
+- Experimenting with **agentic “Jarvis-like” systems**:
+  - autonomous task execution
+  - tool-using workflows
+  - evaluation + iteration loops
+  - internal “creative & growth automation” pipelines
+
+---
+
+## Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [React project structure](https://dimitrisstefanakis.medium.com/react-project-structure-3a7a95f557b8)
+- [The 80 / 20 rule for software developers](https://dimitrisstefanakis.medium.com/the-80-20-rule-for-software-developers-c28200651872)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Tech I enjoy working with
+
+**Mobile:** React Native, Expo, TypeScript  
+**Backend:** Django, PostgreSQL  
+**Infra (when needed):** Kubernetes, GCP
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimstefanakis&show_icons=true&hide_title=true" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimstefanakis&layout=compact" alt="top langs" />
+</p>
